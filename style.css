@@ -1240,3 +1240,15 @@ footer a:hover, footer a:focus {
   -webkit-order: 2;  
   order: 2;
 }
+.profile {
+	width: 30%;
+	margin: 50px auto;
+	display: block;
+	border-radius: 100%;
+	border: solid 5px;
+}
+.introh2{
+	padding: 0px !important;
+	margin: 0px !important;
+	background: none !important;
+}
