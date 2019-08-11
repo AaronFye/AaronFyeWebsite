@@ -232,7 +232,7 @@ p {
   float: right;
   font-family: "refrigerator-deluxe",sans-serif;
   font-size: 1em;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   background: #faf3e6;
   padding-left: 0.25em;
 }
